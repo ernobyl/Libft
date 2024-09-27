@@ -1,7 +1,7 @@
 # Libft
 Recreations of some of the standard C library functions.
 
-Functions from libc:
+# Functions from libc:
 
 • ft_isalpha - Check whether a character is alphabetical
 
@@ -50,7 +50,7 @@ Functions from libc:
 • ft_strdup - Take a string as a parameter, copy and return it as a new malloced string.
 
 
-Additional / modified functions:
+# Additional / modified functions:
 
 • ft_substr - Allocate and return a substring from the string ’s’. The substring begins at index ’start’ and is of maximum size ’len’.
 
