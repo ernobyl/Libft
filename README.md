@@ -3,6 +3,7 @@ Recreations of some of the standard C library functions.
 
 Functions from libc:
 • ft_isalpha - Check whether a character is alphabetical
+
 • ft_isdigit - Check whether a character is a digit
 • ft_isalnum - Check whether a character is alphanumerical
 • ft_isascii - Check whether a character is an ASCII character
